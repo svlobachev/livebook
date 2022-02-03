@@ -21,7 +21,6 @@ public class PersonageOptionsTemplate {
         level2Map.put("sound", 0);
         level2Map.put("color", "Color");
 
-        level1Map.put("TEST", 0);
         level1Map.put("hair", level2Map);
         level1Map.put("skin", level2Map);
         level1Map.put("blood", level2Map);
